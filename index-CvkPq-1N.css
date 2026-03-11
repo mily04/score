@@ -2,3 +2,6 @@
 button:contains("导出 / 打印 PDF") {
   display: none !important;
 }
+.flex.justify-between.items-center.mb-6 > div > p {
+  display: none !important;
+}
